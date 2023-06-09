@@ -1,0 +1,47 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.text-1 {
+  font-weight: bold;
+  font-size: 18px;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.view {
+  font-size: 14px;
+  color: #606060;
+  margin-bottom: 20px;
+}
+
+.marq {
+  font-size: 14px;
+  color: #606060;
+}
+
+.talk {
+  font-size: 14px;
+  color: #606060;
+  width: 280px;
+  margin-top: 20px;
+  line-height: 22px;
+}
+
+.shop {
+  margin-top: 100px;
+  text-align: center;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  font-size: 14px;
+  font-weight: 400px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+
+.span:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
